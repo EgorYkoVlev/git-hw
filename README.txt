@@ -5,3 +5,4 @@ Some text here
 Another text here  
 Trying to make a conflict  
 Something should be here  
+New string
